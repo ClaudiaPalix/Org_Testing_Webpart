@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "org-testing-client-side-solution",
+    "id": "3e475c68-adf3-4453-8f0e-1ab56b553ac1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "org-testing description"
+      },
+      "longDescription": {
+        "default": "org-testing description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "org-testing Feature",
+        "description": "The feature that activates elements of the org-testing solution.",
+        "id": "5aa9924c-9df4-41ce-a366-ac98dbaf0e17",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/org-testing.sppkg"
+  }
+}

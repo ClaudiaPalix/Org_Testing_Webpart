@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "org-testing",
+    "libraryId": "3e475c68-adf3-4453-8f0e-1ab56b553ac1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "org-testing",
+    "solutionShortDescription": "org-testing description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
